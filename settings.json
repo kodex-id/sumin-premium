@@ -2,6 +2,6 @@
     "prefix": "niks.",
     "embed_color": 923430,
     "memory_size": 5,
-    "default_volume": 0.50,
+    "default_volume": 0.40,
     "audio_passes": 1
 }
