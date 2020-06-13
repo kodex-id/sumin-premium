@@ -276,7 +276,7 @@ client.on("voiceStateUpdate", member => {
   }
 });
 
-client.login(process.env.token).then(() => {
+client.login(process.env.TOKEN).then(() => {
   // sign in as bot user
 
   const guild = client.guilds.first();
