@@ -4,7 +4,7 @@
   "description": "a discord music bot with guild , gifs and misc commands",
   "main": "index.js",
   "scripts": {
-    "stable": "node index.js",
+    "stable": "node index.js"
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
