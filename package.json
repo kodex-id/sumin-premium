@@ -18,6 +18,9 @@
     "simple-youtube-api": "^5.2.1",
     "ytdl-core": "^2.1.5"
   },
+  "engines": {
+    "node": "8.11.4"
+  },
   "devDependencies": {
     "@getify/eslint-plugin-proper-arrows": "^8.0.1",
     "@getify/eslint-plugin-proper-ternary": "^3.0.1",
