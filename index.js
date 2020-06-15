@@ -49,8 +49,7 @@ client.registry
 client.once('ready', () => {
   console.log('Ready!');
   client.user.setActivity(`Premium User`, {
-    type: 'WATCHING',
-    url: 'GCS'
+    type: 'WATCHING'
   });
 });
 
